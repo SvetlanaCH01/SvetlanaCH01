@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://vk.com/schiglintseva" target="_blank">Svetlana</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 <!--
 **SvetlanaCH01/SvetlanaCH01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
